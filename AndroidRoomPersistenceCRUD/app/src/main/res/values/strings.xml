@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidRoomPersistenceCRUD</string>
+    <string name="title_activity_main2">Products</string>
+
+    <string name="hint_product_name">Product name</string>
+    <string name="empty_not_saved_pname">Product not saved because it is empty.</string>
+
+    <string name="hint_product_description">Product description</string>
+    <string name="empty_not_saved_pdescription">Product not saved because it is empty.</string>
+
+    <string name="hint_product_quantity">Product quantity</string>
+    <string name="empty_not_saved_pquanntity">Product not saved because it is empty.</string>
+
+
+    <string name="button_save">Save</string>
+</resources>
