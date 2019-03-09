@@ -3,7 +3,7 @@
 ## Add new product
 ![](images/add_product.png)
 
-## Update new product
+## Update product
 ![](images/update_product.png)
 
 ## Show in Recycler view 
